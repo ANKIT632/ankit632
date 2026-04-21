@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ankit+Kumar+Gupta;Software+Engineer+%7C+Problem+Solver;Building+Scalable+%26+High-Performance+Web+Apps+🚀" />
 </p>
 
----
-
 <!-- Profile Views + Followers -->
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit632&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
