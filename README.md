@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ankit+Kumar+Gupta;Full+Stack+MERN+Developer;Software+Engineer+%7C+Problem+Solver;Building+Scalable+%26+High-Performance+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ankit+Kumar+Gupta;Software+Engineer+%7C+Problem+Solver;Building+Scalable+%26+High-Performance+Web+Apps+🚀" />
 </p>
 
 ---
