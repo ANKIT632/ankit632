@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Full Stack Developer (MERN Stack)
+- 💻 Software Engineer
 - ⚡ Strong foundation in **Data Structures & Algorithms (DSA)**
 - 🧠 Skilled in **Backend Development, API Design & System Design Basics**
 - 🚀 Focused on building **scalable, maintainable, and high-performance applications**
