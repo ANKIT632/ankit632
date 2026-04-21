@@ -7,8 +7,8 @@
 
 <!-- Profile Views + Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ankit632&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/ankit632?label=Followers&style=social" alt="followers"/>
 </p>
 
 ---
