@@ -31,36 +31,10 @@
 
 ## 🚀 Featured Projects
 - 🔹 **Preplytix** – Full-stack platform with scalable backend architecture  
-- 🔹 **Hotel Management System** – MERN app with responsive UI & role-based features  
-- 🔹 **Infinity Talent ERP** – Subscription-based ERP with real-time modules  
-- 🔹 **EcoEstate** – Real estate platform with advanced search & authentication  
-
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
