@@ -12,9 +12,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Software Engineer
-- ⚡ Strong foundation in **Data Structures & Algorithms (DSA)**
-- 🧠 Skilled in **Backend Development, API Design & System Design Basics**
+- 💻 Software Engineer | Web Developer
+- ⚡ Strong foundation in **Data Structures & Algorithms (DSA) **
+- 🧠 Skilled in **Backend Development, Frontend Development, API Design & System Design **
 - 🚀 Focused on building **scalable, maintainable, and high-performance applications**
 
 ---
